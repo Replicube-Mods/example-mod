@@ -1,0 +1,6 @@
+{
+	"name": "ExampleMod",
+	"description": "An example mod for Replicube",
+	"root": "res://mods/ExampleMod/",
+	"main": "Main.gdc"
+}
